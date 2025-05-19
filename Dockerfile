@@ -2,8 +2,8 @@
 FROM node:20-bullseye-slim
 
 # Metadata about the image
-LABEL author="athar" \
-      maintainer="athar@atharr.my.id" \
+LABEL author="hiyoshop" \
+      maintainer="hiyoshopp@gmail.com" \
       description="A Docker image for running Node.js applications with PM2 and essential utilities."
 
 # Update and install required dependencies
