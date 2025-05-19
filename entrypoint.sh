@@ -9,11 +9,11 @@ YELLOW='\033[1;33m'
 MAGENTA='\033[1;35m'
 NC='\033[0m' # No Color
 
-# Banner AtharsCloud
+# Banner Hiyoshop 
 clear
 echo -e "${RED}"
 echo "=============================="
-echo -e "     ${MAGENTA}Welcome to AtharsClouud${NC}     "
+echo -e "     ${MAGENTA}Welcome to Hiyoshop${NC}     "
 echo "=============================="
 echo -e "${NC}"
 sleep 1
